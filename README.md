@@ -1,6 +1,7 @@
 # cycle computer
 
  Cycle Computer using micro python, SSD1306 OLED I2C Display and maker pi pico dev board.
+ 
  Dave Gunning Nov 2021
 
  I2C display to pi pico pins: VCC 3.3v, SDA - GP4, SCL - GP5.
