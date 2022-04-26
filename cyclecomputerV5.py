@@ -1,6 +1,6 @@
 ###############################################################
 # Cycle Computer using pi pico and SSD1306 OLED I2C Display
-# maker pi pico dev board
+# maker pi pico dev board.
 # Dave Gunning Nov 2021
 #
 # I2C display to pi pico pins: VCC 3.3v, SDA - GP4, SCL - GP5.
