@@ -10,7 +10,7 @@
  Reed switch closes on each wheel rotation and discharges 1uF, causing logic 0 pulse on GP1.
 
  3.3v---1k----1k------>GP1
-         |     |
+         :     :
       reed-sw  1uF
-         |     |
+         :     :
         GND   GND
