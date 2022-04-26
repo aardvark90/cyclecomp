@@ -1,5 +1,5 @@
 ###############################################################
-# Cycle Computer using pi pico and SSD1306 OLED I2C Display
+# Cycle Computer using pi pico and SSD1306 OLED I2C Display.
 # maker pi pico dev board.
 # Dave Gunning Nov 2021
 #
